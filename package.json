@@ -30,7 +30,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zutrinken/attila.git"
+    "url": "https://github.com/SimpleCodeGR/ghost-theme-attila-simplecode"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.2",
