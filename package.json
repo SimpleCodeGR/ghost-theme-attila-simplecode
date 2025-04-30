@@ -1,7 +1,7 @@
 {
-  "name": "attila",
+  "name": "ghost-theme-attila-simplecode",
   "description": "Ghost Theme",
-  "demo": "https://attila.peteramende.de",
+  "demo": "https://blog.simplecode.gr",
   "version": "3.8.0",
   "engines": {
     "ghost": ">=5.0.0"
