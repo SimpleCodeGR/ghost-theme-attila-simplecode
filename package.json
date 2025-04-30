@@ -2,7 +2,7 @@
   "name": "ghost-theme-attila-simplecode",
   "description": "Ghost Theme",
   "demo": "https://blog.simplecode.gr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "ghost": ">=5.0.0"
   },
